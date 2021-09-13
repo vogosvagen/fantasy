@@ -1,7 +1,7 @@
 [
 null,
-{"id":1,"expanded":true,"name":"IntroMaps","order":1,"parentId":0,"scrollX":1176,"scrollY":665.4545454545455},
-{"id":2,"expanded":false,"name":"OpenScene","order":3,"parentId":1,"scrollX":1176,"scrollY":665.4545454545455},
-{"id":3,"expanded":false,"name":"Forest","order":2,"parentId":1,"scrollX":1078,"scrollY":610},
-{"id":4,"expanded":false,"name":"Town of Agartha","order":4,"parentId":0,"scrollX":1176,"scrollY":665.4545454545455}
+{"id":1,"expanded":true,"name":"Tutorial Maps","order":1,"parentId":0,"scrollX":607.8,"scrollY":390},
+{"id":2,"expanded":false,"name":"Open Scene","order":3,"parentId":1,"scrollX":1176,"scrollY":665.4545454545455},
+{"id":3,"expanded":false,"name":"Agartha Borders","order":2,"parentId":1,"scrollX":607.8,"scrollY":390},
+{"id":4,"expanded":false,"name":"Town of Agartha","order":4,"parentId":0,"scrollX":1104.6,"scrollY":380.4}
 ]
