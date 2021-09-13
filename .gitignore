@@ -95,3 +95,5 @@ audio/bgm/Battle2.m4a
 audio/bgm/Battle2.ogg
 audio/bgm/Battle3.m4a
 audio/bgm/Battle3.ogg
+*.m4a
+*.ogg
