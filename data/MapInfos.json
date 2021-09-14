@@ -3,7 +3,7 @@ null,
 {"id":1,"expanded":true,"name":"Tutorial Maps","order":1,"parentId":0,"scrollX":1293.6,"scrollY":732},
 {"id":2,"expanded":false,"name":"Open Scene","order":2,"parentId":1,"scrollX":1293.6,"scrollY":732},
 {"id":3,"expanded":false,"name":"Agartha Borders","order":3,"parentId":1,"scrollX":1293.6,"scrollY":732},
-{"id":4,"expanded":true,"name":"Town of Agartha","order":4,"parentId":0,"scrollX":1617,"scrollY":915},
-{"id":5,"expanded":true,"name":"Agartha Cave","order":6,"parentId":6,"scrollX":1617,"scrollY":915},
-{"id":6,"expanded":true,"name":"Town Of Agartha v2","order":5,"parentId":4,"scrollX":1593,"scrollY":915}
+{"id":4,"expanded":true,"name":"Town of Agartha","order":4,"parentId":0,"scrollX":1488,"scrollY":672},
+{"id":5,"expanded":true,"name":"Agartha Cave","order":6,"parentId":6,"scrollX":1158.5454545454545,"scrollY":774.5454545454546},
+{"id":6,"expanded":true,"name":"Town Of Agartha v2","order":5,"parentId":4,"scrollX":1158.5454545454545,"scrollY":665.4545454545455}
 ]
