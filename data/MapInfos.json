@@ -5,6 +5,6 @@ null,
 {"id":3,"expanded":false,"name":"Agartha Borders","order":3,"parentId":1,"scrollX":1617,"scrollY":915},
 null,
 {"id":5,"expanded":true,"name":"Agartha Cave","order":6,"parentId":6,"scrollX":1617,"scrollY":915},
-{"id":6,"expanded":true,"name":"Town Of Agartha v2","order":5,"parentId":0,"scrollX":1593,"scrollY":915},
+{"id":6,"expanded":true,"name":"Town Of Agartha v2","order":5,"parentId":0,"scrollX":1593,"scrollY":1197},
 {"id":7,"expanded":false,"name":"Forest","order":4,"parentId":1,"scrollX":1617,"scrollY":915}
 ]
