@@ -10,5 +10,5 @@ null,
 {"id":8,"expanded":false,"name":"Armor Shop","order":8,"parentId":6,"scrollX":923.9999999999999,"scrollY":522.8571428571428},
 {"id":9,"expanded":false,"name":"Item Shop","order":9,"parentId":6,"scrollX":923.9999999999999,"scrollY":522.8571428571428},
 null,
-{"id":11,"expanded":false,"name":"Inn 1F","order":10,"parentId":6,"scrollX":923.9999999999999,"scrollY":522.8571428571428}
+{"id":11,"expanded":false,"name":"Inn 1F","order":10,"parentId":6,"scrollX":1084,"scrollY":610}
 ]
