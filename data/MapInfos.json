@@ -11,5 +11,5 @@ null,
 {"id":9,"expanded":false,"name":"Item Shop","order":9,"parentId":6,"scrollX":675.3333333333334,"scrollY":433.3333333333333},
 {"id":10,"expanded":false,"name":"Crossroads","order":11,"parentId":6,"scrollX":1176,"scrollY":665.4545454545455},
 {"id":11,"expanded":false,"name":"Inn 1F","order":10,"parentId":6,"scrollX":1176,"scrollY":665.4545454545455},
-{"id":12,"expanded":false,"name":"MAP012","order":12,"parentId":6,"scrollX":1088,"scrollY":624}
+{"id":12,"expanded":false,"name":"MAP012","order":12,"parentId":6,"scrollX":1176,"scrollY":665.4545454545455}
 ]
