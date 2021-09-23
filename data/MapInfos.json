@@ -11,7 +11,7 @@ null,
 {"id":9,"expanded":false,"name":"Item Shop","order":9,"parentId":6,"scrollX":1084,"scrollY":610},
 {"id":10,"expanded":false,"name":"Crossroads","order":11,"parentId":6,"scrollX":1084,"scrollY":610},
 {"id":11,"expanded":false,"name":"Inn 1F","order":10,"parentId":6,"scrollX":632,"scrollY":505},
-{"id":12,"expanded":true,"name":"Tower Base","order":12,"parentId":6,"scrollX":854.6666666666666,"scrollY":630.6666666666666},
-{"id":13,"expanded":false,"name":"Tower 1F","order":13,"parentId":12,"scrollX":1330.6666666666667,"scrollY":866.6666666666666},
+{"id":12,"expanded":true,"name":"Tower Base","order":12,"parentId":6,"scrollX":665.3333333333334,"scrollY":777.3333333333334},
+{"id":13,"expanded":false,"name":"Tower 1F","order":13,"parentId":12,"scrollX":665.3333333333334,"scrollY":670.6666666666666},
 {"id":14,"expanded":false,"name":"Tower 2F","order":14,"parentId":12,"scrollX":1330.6666666666667,"scrollY":866.6666666666666}
 ]
