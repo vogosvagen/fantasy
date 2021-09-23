@@ -1,6 +1,6 @@
 [
 null,
-{"id":1,"expanded":false,"name":"Tutorial Maps","order":1,"parentId":0,"scrollX":1176,"scrollY":665.4545454545455},
+{"id":1,"expanded":false,"name":"Tutorial Maps","order":1,"parentId":0,"scrollX":1084,"scrollY":610},
 {"id":2,"expanded":false,"name":"Open Scene","order":2,"parentId":1,"scrollX":1084,"scrollY":610},
 {"id":3,"expanded":false,"name":"Agartha Borders","order":3,"parentId":1,"scrollX":675.3333333333334,"scrollY":433.3333333333333},
 {"id":4,"expanded":false,"name":"Weapon Shop","order":7,"parentId":6,"scrollX":1084,"scrollY":610},
@@ -10,7 +10,8 @@ null,
 {"id":8,"expanded":false,"name":"Armor Shop","order":8,"parentId":6,"scrollX":1084,"scrollY":610},
 {"id":9,"expanded":false,"name":"Item Shop","order":9,"parentId":6,"scrollX":1084,"scrollY":610},
 {"id":10,"expanded":false,"name":"Crossroads","order":11,"parentId":6,"scrollX":1084,"scrollY":610},
-{"id":11,"expanded":false,"name":"Inn 1F","order":10,"parentId":6,"scrollX":1084,"scrollY":610},
+{"id":11,"expanded":false,"name":"Inn 1F","order":10,"parentId":6,"scrollX":632,"scrollY":505},
 {"id":12,"expanded":true,"name":"Tower Base","order":12,"parentId":6,"scrollX":1084,"scrollY":610},
-{"id":13,"expanded":false,"name":"Tower 1F","order":13,"parentId":12,"scrollX":1068,"scrollY":1310}
+{"id":13,"expanded":false,"name":"Tower 1F","order":13,"parentId":12,"scrollX":1068,"scrollY":1280},
+{"id":14,"expanded":false,"name":"Tower 2F","order":14,"parentId":12,"scrollX":1068,"scrollY":1296}
 ]
