@@ -14,5 +14,5 @@ null,
 {"id":12,"expanded":true,"name":"Tower Base","order":13,"parentId":6,"scrollX":737.3333333333334,"scrollY":713.3333333333334},
 {"id":13,"expanded":false,"name":"Tower 1F","order":14,"parentId":12,"scrollX":1030.2857142857142,"scrollY":1383.4285714285713},
 {"id":14,"expanded":false,"name":"Tower 2F","order":15,"parentId":12,"scrollX":1330.6666666666667,"scrollY":866.6666666666666},
-{"id":15,"expanded":false,"name":"borders","order":5,"parentId":1,"scrollX":910.2857142857142,"scrollY":639.4285714285714}
+{"id":15,"expanded":false,"name":"borders","order":5,"parentId":1,"scrollX":665.3333333333334,"scrollY":433.3333333333333}
 ]
