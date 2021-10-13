@@ -2,7 +2,7 @@
 null,
 {"id":1,"expanded":true,"name":"Tutorial Maps","order":1,"parentId":0,"scrollX":676,"scrollY":433.3333333333333},
 {"id":2,"expanded":false,"name":"Open Scene","order":2,"parentId":1,"scrollX":1617,"scrollY":915},
-{"id":3,"expanded":false,"name":"Mayor's House","order":13,"parentId":6,"scrollX":676,"scrollY":433.3333333333333},
+{"id":3,"expanded":false,"name":"Mayor's House","order":13,"parentId":6,"scrollX":499,"scrollY":425},
 {"id":4,"expanded":false,"name":"Weapon Shop","order":8,"parentId":6,"scrollX":531,"scrollY":319},
 {"id":5,"expanded":true,"name":"Agartha Cave","order":7,"parentId":6,"scrollX":1437,"scrollY":915},
 {"id":6,"expanded":true,"name":"Town Of Agartha v2","order":6,"parentId":0,"scrollX":1098.6666666666667,"scrollY":597.3333333333334},
